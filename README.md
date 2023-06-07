@@ -3,7 +3,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Brandon.<br>
-        I've done plenty of C# and VBA in the private sector. I'm looking to branch out share what i've learned and dig into other languages.<br>
+        I've done plenty of C# and VBA in the private sector. I'm looking to branch out and share what I've learned and dig into other languages.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 </p>
